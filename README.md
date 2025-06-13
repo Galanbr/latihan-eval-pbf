@@ -107,18 +107,3 @@ resources/views/
 - `/mahasiswa/{nim}/edit` → Form edit mahasiswa
 
 ---
-
-## 💡 Catatan Tambahan
-
-- Project ini **tidak menggunakan autentikasi**
-- Validasi dilakukan di sisi Laravel frontend (misal: email valid, nim/nidn harus numeric, dll)
-- Aplikasi sudah responsive dengan Bootstrap 5
-
----
-
-## 👨‍💻 Dibuat Oleh
-
-> Alan  
-> D3 Teknik Informatika  
-> Politeknik Negeri Cilacap  
-> UAS Praktikum Pemrograman Berbasis Framework
